@@ -41,7 +41,7 @@ A full-stack, Omegle-style 1-on-1 random video calling and live messaging web ap
 
 1. **Clone the repository** (or navigate to the project directory):
    ```bash
-   git clone https://github.com/yourusername/emmogle.git
+   git clone https://github.com/Divyshek0/emmogle.git
    cd emmogle
    ```
 
